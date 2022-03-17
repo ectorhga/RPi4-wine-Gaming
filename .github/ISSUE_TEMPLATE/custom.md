@@ -3,29 +3,29 @@ name: Name of the game
 about: How the the the game running with box86/wine?
 ---
 
-## Game settings
-# Official patch version
+# Game settings
+## Official patch version
 Usually latest.
-# Custom patches 
+## Custom patches 
 Compatibility or widescreen patches? Please link to patches.
-# Changes to any ```.cfg``` file or registry entry of the game
+## Changes to any ```.cfg``` file or registry entry of the game
 Which? Why?
-# Installation method
+## Installation method
 
-## Wine
-# Version
+# Wine
+## Version
 Stable / staging
-# Prefix 
+## Prefix 
 Any winetricks verbs used? Which (preferably only the ones really needed)?
-# DLL overrides 
+## DLL overrides 
 Wrappers (ddraw), CD audio (winmm), xinput? Which versions?
 
-## Mesa
-# Version
-# Env-vars
+# Mesa
+## Version
+## Env-vars
 
-## Box86
-# Version
+# Box86
+## Version
 Should always be latest (!)
-# Env-vars
+## Env-vars
 Especially ```BOX86_DYNAREC_BIGBLOCK```, ```BOX86_DYNAREC_STRONGMEM``` or ```BOX86_DYNAREC_X87DOUBLE```.
