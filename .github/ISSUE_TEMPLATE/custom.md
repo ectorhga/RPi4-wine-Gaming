@@ -1,10 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
-
+name: Name of the game
+about: How the the the game running with box86/wine?
 ---
 
 ## Game settings
